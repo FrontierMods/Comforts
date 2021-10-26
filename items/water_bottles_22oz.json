@@ -1,0 +1,169 @@
+[
+	{ 
+		"abstract": "frontiers_water_bottle_22oz",
+		"type": "ARMOR",
+		
+		"//source": [ 
+			"https://www.amazon.com/United-Blue-Single-Limited-Insulated/dp/B0856SC18D",
+			"assumes weight is proportional with volume, i.e. 22oz bottle weighs `22 / 32 = 0.6875 × 1 lb = 284 g` rounded up"
+		],
+		
+		"symbol": ")",
+		"color": "dark_gray",
+		
+		"weight": "312 g",
+		"volume": "1274 ml",
+		"longest_side": "279 mm",
+		
+		"material": [ 
+			"steel" 
+		],
+		
+		"qualities": [ 
+			[ "CONTAIN", 1 ], 
+			[ "BOIL",    2 ] 
+		] 
+	},
+	
+	{ 
+		"id": "ubb_22oz",
+		"copy-from": "frontiers_water_bottle_22oz",
+		"type": "GENERIC",
+		
+		"//source": [ 
+			"https://unitedbyblue.com/products/insulated-stainless-steel-bottle-22-oz" 
+		],
+		
+		"name": { 
+			"str": "UbB 22oz water bottle" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in navy blue, and says \"United\" in quirky, almost cartoonish large lettering, followed by a small and formal-looking \"BY BLUE\" beneath.",
+		
+		"//insulation": [ 
+			"best guess" 
+		],
+		"insulation": 5,
+		
+		"pocket_data": [ 
+			{ 
+				"pocket_type": "CONTAINER",
+				
+				"//type": "water storage",
+				
+				"rigid": true,
+				"watertight": true,
+				
+				"moves": 115,
+				
+				"max_contains_volume": "624 ml",
+				"max_contains_weight": "20 kg" 
+			} 
+		],
+		
+		"price": "32 USD" 
+	},
+	
+	{ 
+		"id": "ubb_22oz_plaid",
+		"copy-from": "ubb_22oz",
+		"type": "GENERIC",
+		
+		"name": { 
+			"str": "UbB 22oz water bottle, Plaid" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one has a tartan pattern (often called \"plaid\" in North America) of a thick sandy-brown stripe framed by two thin red ones, over the black background of the bottle." 
+	},
+	
+	{ 
+		"id": "ubb_22oz_lakeside",
+		"copy-from": "ubb_22oz",
+		"type": "GENERIC",
+		
+		"name": { 
+			"str": "UbB 22oz water bottle, Lakeside Camo" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in navy blue, and shows a map of random rough-edge islands, each with hints of brown and white over muted green." 
+	},
+	
+	{ 
+		"id": "ubb_22oz_moth",
+		"copy-from": "ubb_22oz",
+		"type": "GENERIC",
+		
+		"name": { 
+			"str": "UbB 22oz water bottle, Lunar Moth" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is very dark blue, and shows a moth flying towards the upwards-oriented crescent of the Moon.  Two arms of fern, several roses, and a leaf occupy the lower half of the bottle, with the words \"UNITED BY BLUE\" in small lettering fitting nicely over the leaf and between the nearest rosebuds." 
+	},
+	
+	{ 
+		"id": "ubb_22oz_trees",
+		"copy-from": "ubb_22oz",
+		"type": "GENERIC",
+		
+		"name": { 
+			"str": "UbB 22oz water bottle, Trees Cocoa" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in chocolate brown, with two simplistically-drawn trees framing the Sun drawn in a similar fashion, and the company logo just underneath." 
+	},
+	
+	{ 
+		"id": "ubb_22oz_waves",
+		"copy-from": "ubb_22oz",
+		"type": "GENERIC",
+		
+		"//source": [ 
+			"https://unitedbyblue.com/products/waves-22-oz-insulated-steel-bottle?variant=36533603270728" 
+		],
+		
+		"name": { 
+			"str": "UbB 22oz water bottle, Waves" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in steel blue, with waves in white, light blue, and greenish blue seemingly painted with a sparse brush.  White \"UNITED BY BLUE\" lettering fits in an empty spot near the bottom of the bottle, between the waves." 
+	},
+	
+	{ 
+		"id": "ubb_22oz_woodgrain",
+		"copy-from": "ubb_22oz",
+		"type": "GENERIC",
+		
+		"//source": [ 
+			"https://unitedbyblue.com/products/22-oz-stainless-steel-bottle-topographic-pop?variant=36533603303496" 
+		],
+		
+		"name": { 
+			"str": "UbB 22oz water bottle, Woodgrain" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in yellowish milky white, and has a sparse wood grain pattern on it.  The bottom of the pattern is framed by a black line, where \"UNITED BY BLUE\" fits in in tiny lettering." 
+	},
+	
+	{ 
+		"id": "ubb_22oz_packitout",
+		"copy-from": "ubb_22oz",
+		"type": "GENERIC",
+		
+		"//source": [ 
+			"https://unitedbyblue.com/products/pack-it-out-22-oz-insulated-steel-bottle?variant=36533603205192" 
+		],
+		
+		"name": { 
+			"str": "UbB 22oz water bottle, Pack It Out" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in slightly-muted yellow.  The print on the side depicts the following: a light-blue painted swirl and a disk of red Sun hiding behind tall rocky mountains, all of which serves as background for a forest and a large wooden plack that says: \"Pack It In / Pack it Out / Enjoy Don't Destroy\"." 
+	},
+	
+	{ 
+		"id": "ubb_22oz_preserve",
+		"copy-from": "ubb_22oz",
+		"type": "GENERIC",
+		
+		"//source": [ 
+			"https://unitedbyblue.com/products/preserve-and-protect-22-oz-insulated-steel-bottle" 
+		],
+		
+		"name": { 
+			"str": "UbB 22oz water bottle, Preserve and Protect" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in soft light blue.  The print on the side has the company logo inside a brownish-white circle, framed by two symmetrically mirrored hands, two translucent green stalks, and the name of the company in tiny brown lettering.  Outside, the circle itself is framed by the words \"PRESERVE\" at the top and \"PROTECT\" at the bottom, surrounded by slight greenery and vegetation-like patterns." 
+	} 
+]
