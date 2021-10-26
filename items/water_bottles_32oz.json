@@ -1,0 +1,179 @@
+[
+	{ 
+		"abstract": "frontiers_water_bottle_32oz",
+		"type": "GENERIC",
+		
+		"//source": [ 
+			"https://www.amazon.com/United-Blue-Single-Limited-Insulated/dp/B0856SC18D"
+		],
+		
+		"symbol": ")",
+		"color": "dark_gray",
+		
+		"weight": "454 g",
+		"volume": "1734 ml",
+		"longest_side": "279 mm",
+		
+		"material": [ 
+			"steel" 
+		],
+		
+		"qualities": [ 
+			[ "CONTAIN", 1 ], 
+			[ "BOIL",    2 ] 
+		] 
+	},
+	
+	{ 
+		"id": "ubb_32oz",
+		"copy-from": "frontiers_water_bottle_32oz",
+		"type": "GENERIC",
+		
+		"//source": [ 
+			"https://unitedbyblue.com/products/32-oz-insulated-stainless-steel-bottle" 
+		],
+		
+		"name": { 
+			"str": "UbB 32oz water bottle" 
+		},
+		"description": "Double-wall insulated 32-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in calm yellow, and says \"United\" in quirky, almost cartoonish large lettering, followed by a small and formal-looking \"BY BLUE\" beneath.",
+		
+		"//insulation": [ 
+			"best guess" 
+		],
+		"insulation": 5,
+		
+		"pocket_data": [ 
+			{ 
+				"pocket_type": "CONTAINER",
+				
+				"//type": "water storage",
+				
+				"rigid": true,
+				"watertight": true,
+				
+				"moves": 115,
+				
+				"max_contains_volume": "907 ml",
+				"max_contains_weight": "20 kg" 
+			} 
+		],
+		
+		"price": "38 USD" 
+	},
+	
+	{ 
+		"id": "ubb_32oz_lakeside",
+		"copy-from": "ubb_32oz",
+		"type": "GENERIC",
+		
+		"name": { 
+			"str": "UbB 32oz water bottle, Lakeside Camo" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in navy blue, and shows a map of random rough-edge islands, each with hints of brown and white over muted green." 
+	},
+	
+	{ 
+		"id": "ubb_32oz_celestial",
+		"copy-from": "ubb_32oz",
+		"type": "GENERIC",
+		
+		"name": { 
+			"str": "UbB 32oz water bottle, Celestial Black" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in black, showing a myriad of stars, over a decorated crescent shining with thin colored lines and symbols.  The \"UNITED BY BLUE\" is beneath the crescent in cartoonish Wild-West lettering, underlined by a four-sided star with a little decorated shine of its own." 
+	},
+	
+	{ 
+		"id": "ubb_32oz_woodgrain",
+		"copy-from": "ubb_32oz",
+		"type": "GENERIC",
+		
+		"name": { 
+			"str": "UbB 32oz water bottle, Woodgrain" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in yellowish milky white, and has a sparse steel-colored wood grain pattern on it.  The bottom of the pattern is framed by a black line, where \"UNITED BY BLUE\" fits in in tiny lettering." 
+	},
+	
+	{ 
+		"id": "ubb_32oz_bison",
+		"copy-from": "ubb_32oz",
+		"type": "GENERIC",
+		
+		"name": { 
+			"str": "UbB 32oz water bottle, Geo Bison" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in steel gray, and has on one side a stylized geometric figure of a bison with its leg halfway up, as if about to step on the name of the company in subdued lettering.  The bison is divided into random sections, each filled with a geometric pattern, in black, dark red, orange -- the same colors of the lines beneath the bison, as if underlining the large creature." 
+	},
+	
+	{ 
+		"id": "ubb_32oz_mountains",
+		"copy-from": "ubb_32oz",
+		"type": "GENERIC",
+		
+		"name": { 
+			"str": "UbB 32oz water bottle, The Mountains" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in calm deep green, and features a picture of a set of tall mountains, themselves beset by unimaginably-tall trees and in front of a large red disk of the Sun.  Beneath the mountains is a white framed line where the lettering of the company name resides.  Beneath that, halftone blue lines, remotely resembling outgoing waves on the surface of lake." 
+	},
+	
+	{ 
+		"id": "ubb_32oz_waves",
+		"copy-from": "ubb_32oz",
+		"type": "GENERIC",
+		
+		"//source": [ 
+			"https://unitedbyblue.com/products/insulated-steel-bottle-32-oz-waves?variant=39368264351816" 
+		],
+		
+		"name": { 
+			"str": "UbB 32oz water bottle, Waves" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in steel blue, with waves in white, light blue, and greenish blue seemingly painted with a sparse brush.  White \"UNITED BY BLUE\" lettering fits in an empty spot near the bottom of the bottle, between the waves." 
+	},
+	
+	{ 
+		"id": "ubb_32oz_change",
+		"copy-from": "ubb_32oz",
+		"type": "GENERIC",
+		
+		"//source": [ 
+			"https://unitedbyblue.com/products/insulated-steel-bottle-32-oz-comes-in-waves?variant=39368263991368" 
+		],
+		
+		"name": { 
+			"str": "UbB 32oz water bottle, Change Comes in Waves" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in black, with a print of painted greenish-blue waves foaming, and the yellow Sun above.  The waves say: \"CHANGE COMES in WAVES\".  The shore is implied by the red trees under the waves, with the company name in tiny red lettering hiding in the white foam." 
+	},
+	
+	{ 
+		"id": "ubb_32oz_forest",
+		"copy-from": "ubb_32oz",
+		"type": "GENERIC",
+		
+		"//source": [ 
+			"https://unitedbyblue.com/products/funky-forest-32-oz-insulated-steel-bottle?variant=36533603074120" 
+		],
+		
+		"name": { 
+			"str": "UbB 32oz water bottle, Funky Forest" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in milky orange, with a print of random geometric waves, trees, leaves, and droplets, in deep blue, light blue, greenish-brown, and orange.  On one side there's \"UNITED BY BLUE\" in small blue lettering.  On the other, a promise: the company removes one pound of trash from oceans and waterways for every product purchased.  A blue diamond shape beneath the promise denotes the bottle's capacity: 32 oz." 
+	},
+	
+	{ 
+		"id": "ubb_32oz_trees",
+		"copy-from": "ubb_32oz",
+		"type": "GENERIC",
+		
+		"//source": [ 
+			"https://unitedbyblue.com/products/trippy-trees-32-oz-insulated-steel-bottle?variant=36533603008584" 
+		],
+		
+		"name": { 
+			"str": "UbB 32oz water bottle, Trippy Trees" 
+		},
+		"description": "Double-wall insulated 22-ounce water bottle by United by Blue.  Black plastic flat top opens halfway.  Has a small detachable cotton leash for carrying.  This one is in milky green, with two simplistically-drawn trees framing the Sun drawn in a similar fashion, and the company logo in red just underneath." 
+	} 
+]
