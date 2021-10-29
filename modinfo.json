@@ -1,0 +1,19 @@
+[ 
+	{ 
+		"type": "MOD_INFO",
+		"id": "comforts",
+		
+		"name": "Comforts",
+		"description": "Comforts adds a variety of small material comforts",
+		
+		"authors": [ 
+			"Hyperseeker" 
+		],
+		
+		"category": "items",
+		
+		"dependencies": [ 
+			"dda" 
+		] 
+	} 
+]
